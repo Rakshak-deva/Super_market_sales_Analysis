@@ -4,7 +4,7 @@
 
 This project aims to explore the Sales data to understand top performing branches and products, sales trend of of different products, customer behavior. The aims is to study how sales strategies can be improved and optimized.
 
-This data-set historical sales data for 45 stores located in different regions. Each store contains many departments, and need to project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact.
+This data-set historical sales data for 45 stores located in different regions. Each store contains many departments, and need to project the sales for each department in each store. To add to the challenge, public holidays  are included in the dataset. These holidays are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact.
 
  Purposes Of The Project
 
